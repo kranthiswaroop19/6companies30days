@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/kranthiswaroop19/6companies30days/tree/master/0354-russian-doll-envelopes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kranthiswaroop19/6companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
@@ -26,4 +27,16 @@
 |  |
 | ------- |
 | [1501-circle-and-rectangle-overlapping](https://github.com/kranthiswaroop19/6companies30days/tree/master/1501-circle-and-rectangle-overlapping) |
+## Binary Search
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/kranthiswaroop19/6companies30days/tree/master/0354-russian-doll-envelopes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/kranthiswaroop19/6companies30days/tree/master/0354-russian-doll-envelopes) |
+## Sorting
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/kranthiswaroop19/6companies30days/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
