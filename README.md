@@ -12,6 +12,7 @@
 | [0661-image-smoother](https://github.com/kranthiswaroop19/6companies30days/tree/master/0661-image-smoother) |
 | [0875-longest-mountain-in-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0875-longest-mountain-in-array) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/kranthiswaroop19/6companies30days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [1036-rotting-oranges](https://github.com/kranthiswaroop19/6companies30days/tree/master/1036-rotting-oranges) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthiswaroop19/6companies30days/tree/master/1370-count-number-of-nice-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kranthiswaroop19/6companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kranthiswaroop19/6companies30days/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/kranthiswaroop19/6companies30days/tree/master/0036-valid-sudoku) |
 | [0661-image-smoother](https://github.com/kranthiswaroop19/6companies30days/tree/master/0661-image-smoother) |
+| [1036-rotting-oranges](https://github.com/kranthiswaroop19/6companies30days/tree/master/1036-rotting-oranges) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1036-rotting-oranges](https://github.com/kranthiswaroop19/6companies30days/tree/master/1036-rotting-oranges) |
 ## Design
 |  |
 | ------- |
