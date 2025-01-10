@@ -66,4 +66,16 @@
 |  |
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/kranthiswaroop19/6companies30days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Hash Table
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/kranthiswaroop19/6companies30days/tree/master/0299-bulls-and-cows) |
+## String
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/kranthiswaroop19/6companies30days/tree/master/0299-bulls-and-cows) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/kranthiswaroop19/6companies30days/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
