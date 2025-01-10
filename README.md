@@ -11,6 +11,7 @@
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/kranthiswaroop19/6companies30days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthiswaroop19/6companies30days/tree/master/1370-count-number-of-nice-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kranthiswaroop19/6companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Math
 |  |
@@ -86,6 +87,7 @@
 | [0187-repeated-dna-sequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/kranthiswaroop19/6companies30days/tree/master/0299-bulls-and-cows) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Counting
 |  |
 | ------- |
@@ -136,4 +138,12 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0324-wiggle-sort-ii) |
+## Graph
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
