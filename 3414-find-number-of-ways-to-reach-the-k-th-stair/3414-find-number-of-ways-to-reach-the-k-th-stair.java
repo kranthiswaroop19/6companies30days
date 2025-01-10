@@ -1,14 +1,5 @@
 class Solution {
     public int waysToReachStair(int k) {
-    // Let's say we have `down` operation 1 and `jump` operation 2.
-    // The final stair is 1 + (2^0 + 2^1 + ... + 2^(jump - 1)) - down = k.
-    // => 1 + (2^jump - 1) - down = k.
-    // => down = 2^jump - k.
-    // Since `down` operations cannot be used consecutively, there're jump + 1
-    // positions (before and after each `jump`) for  `down`. The maximum jump is
-    // 29, as it satisfies the condition down = 2^jump - k <= jump + 1, with k
-    // being the maximum value of 10^9.
-
     final int kMaxJump = 29;
     final int[][] comb = getComb(kMaxJump + 1, kMaxJump + 1);
     int ans = 0;
