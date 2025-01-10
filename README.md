@@ -1,5 +1,5 @@
 # 6companies30days
-In the repository
+In this repository, I will update my solutions for 6Companies30days Challenge by Arsh Goyal
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
