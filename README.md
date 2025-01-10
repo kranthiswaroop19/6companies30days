@@ -29,6 +29,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthiswaroop19/6companies30days/tree/master/1370-count-number-of-nice-subarrays) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/kranthiswaroop19/6companies30days/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kranthiswaroop19/6companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/kranthiswaroop19/6companies30days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +61,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [0875-longest-mountain-in-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0875-longest-mountain-in-array) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/kranthiswaroop19/6companies30days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +128,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0187-repeated-dna-sequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/0187-repeated-dna-sequences) |
 | [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/kranthiswaroop19/6companies30days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -203,4 +206,9 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/kranthiswaroop19/6companies30days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+## Combinatorics
+|  |
+| ------- |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/kranthiswaroop19/6companies30days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 <!---LeetCode Topics End-->
