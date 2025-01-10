@@ -10,6 +10,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0324-wiggle-sort-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/kranthiswaroop19/6companies30days/tree/master/0354-russian-doll-envelopes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [0661-image-smoother](https://github.com/kranthiswaroop19/6companies30days/tree/master/0661-image-smoother) |
 | [0875-longest-mountain-in-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0875-longest-mountain-in-array) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/kranthiswaroop19/6companies30days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
@@ -56,6 +57,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kranthiswaroop19/6companies30days/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0354-russian-doll-envelopes](https://github.com/kranthiswaroop19/6companies30days/tree/master/0354-russian-doll-envelopes) |
+| [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [0875-longest-mountain-in-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0875-longest-mountain-in-array) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Sorting
@@ -122,6 +124,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/0187-repeated-dna-sequences) |
+| [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Rolling Hash
 |  |
@@ -144,10 +147,12 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 ## Backtracking
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bitmask
 |  |
 | ------- |
+| [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
@@ -194,4 +199,8 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kranthiswaroop19/6companies30days/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+## Memoization
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
