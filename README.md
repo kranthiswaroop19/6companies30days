@@ -11,6 +11,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0354-russian-doll-envelopes](https://github.com/kranthiswaroop19/6companies30days/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/kranthiswaroop19/6companies30days/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/kranthiswaroop19/6companies30days/tree/master/0396-rotate-function) |
+| [0419-battleships-in-a-board](https://github.com/kranthiswaroop19/6companies30days/tree/master/0419-battleships-in-a-board) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [0661-image-smoother](https://github.com/kranthiswaroop19/6companies30days/tree/master/0661-image-smoother) |
@@ -79,6 +80,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kranthiswaroop19/6companies30days/tree/master/0036-valid-sudoku) |
+| [0419-battleships-in-a-board](https://github.com/kranthiswaroop19/6companies30days/tree/master/0419-battleships-in-a-board) |
 | [0661-image-smoother](https://github.com/kranthiswaroop19/6companies30days/tree/master/0661-image-smoother) |
 | [1036-rotting-oranges](https://github.com/kranthiswaroop19/6companies30days/tree/master/1036-rotting-oranges) |
 ## Reservoir Sampling
@@ -193,6 +195,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0419-battleships-in-a-board](https://github.com/kranthiswaroop19/6companies30days/tree/master/0419-battleships-in-a-board) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kranthiswaroop19/6companies30days/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
