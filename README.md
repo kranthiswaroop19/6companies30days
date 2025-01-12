@@ -6,6 +6,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kranthiswaroop19/6companies30days/tree/master/0036-valid-sudoku) |
+| [0139-word-break](https://github.com/kranthiswaroop19/6companies30days/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kranthiswaroop19/6companies30days/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0324-wiggle-sort-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/kranthiswaroop19/6companies30days/tree/master/0354-russian-doll-envelopes) |
@@ -64,6 +65,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/kranthiswaroop19/6companies30days/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kranthiswaroop19/6companies30days/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0354-russian-doll-envelopes](https://github.com/kranthiswaroop19/6companies30days/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/kranthiswaroop19/6companies30days/tree/master/0368-largest-divisible-subset) |
@@ -109,6 +111,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kranthiswaroop19/6companies30days/tree/master/0036-valid-sudoku) |
+| [0139-word-break](https://github.com/kranthiswaroop19/6companies30days/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/kranthiswaroop19/6companies30days/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/kranthiswaroop19/6companies30days/tree/master/0387-first-unique-character-in-a-string) |
@@ -119,6 +122,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/kranthiswaroop19/6companies30days/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/kranthiswaroop19/6companies30days/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/0187-repeated-dna-sequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -223,6 +227,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/kranthiswaroop19/6companies30days/tree/master/0139-word-break) |
 | [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/kranthiswaroop19/6companies30days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
@@ -233,4 +238,8 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthiswaroop19/6companies30days/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kranthiswaroop19/6companies30days/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
