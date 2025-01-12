@@ -21,6 +21,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthiswaroop19/6companies30days/tree/master/1370-count-number-of-nice-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kranthiswaroop19/6companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kranthiswaroop19/6companies30days/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2709-count-the-number-of-square-free-subsets](https://github.com/kranthiswaroop19/6companies30days/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Math
@@ -34,6 +35,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthiswaroop19/6companies30days/tree/master/1370-count-number-of-nice-subarrays) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/kranthiswaroop19/6companies30days/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kranthiswaroop19/6companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2709-count-the-number-of-square-free-subsets](https://github.com/kranthiswaroop19/6companies30days/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/kranthiswaroop19/6companies30days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Recursion
 |  |
@@ -68,6 +70,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [0875-longest-mountain-in-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0875-longest-mountain-in-array) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2709-count-the-number-of-square-free-subsets](https://github.com/kranthiswaroop19/6companies30days/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/kranthiswaroop19/6companies30days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Sorting
 |  |
@@ -137,6 +140,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0187-repeated-dna-sequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/0187-repeated-dna-sequences) |
 | [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2709-count-the-number-of-square-free-subsets](https://github.com/kranthiswaroop19/6companies30days/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/kranthiswaroop19/6companies30days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Rolling Hash
 |  |
@@ -166,6 +170,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | ------- |
 | [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2709-count-the-number-of-square-free-subsets](https://github.com/kranthiswaroop19/6companies30days/tree/master/2709-count-the-number-of-square-free-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
