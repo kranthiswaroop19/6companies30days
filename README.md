@@ -16,6 +16,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [0661-image-smoother](https://github.com/kranthiswaroop19/6companies30days/tree/master/0661-image-smoother) |
+| [0852-friends-of-appropriate-ages](https://github.com/kranthiswaroop19/6companies30days/tree/master/0852-friends-of-appropriate-ages) |
 | [0875-longest-mountain-in-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0875-longest-mountain-in-array) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/kranthiswaroop19/6companies30days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1036-rotting-oranges](https://github.com/kranthiswaroop19/6companies30days/tree/master/1036-rotting-oranges) |
@@ -61,6 +62,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/kranthiswaroop19/6companies30days/tree/master/0354-russian-doll-envelopes) |
+| [0852-friends-of-appropriate-ages](https://github.com/kranthiswaroop19/6companies30days/tree/master/0852-friends-of-appropriate-ages) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/kranthiswaroop19/6companies30days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Dynamic Programming
@@ -84,6 +86,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0354-russian-doll-envelopes](https://github.com/kranthiswaroop19/6companies30days/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/kranthiswaroop19/6companies30days/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0852-friends-of-appropriate-ages](https://github.com/kranthiswaroop19/6companies30days/tree/master/0852-friends-of-appropriate-ages) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthiswaroop19/6companies30days/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Matrix
 |  |
@@ -164,6 +167,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 ## Two Pointers
 |  |
 | ------- |
+| [0852-friends-of-appropriate-ages](https://github.com/kranthiswaroop19/6companies30days/tree/master/0852-friends-of-appropriate-ages) |
 | [0875-longest-mountain-in-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0875-longest-mountain-in-array) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Enumeration
