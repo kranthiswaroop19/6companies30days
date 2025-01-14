@@ -85,6 +85,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0324-wiggle-sort-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/kranthiswaroop19/6companies30days/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/kranthiswaroop19/6companies30days/tree/master/0368-largest-divisible-subset) |
+| [0451-sort-characters-by-frequency](https://github.com/kranthiswaroop19/6companies30days/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0852-friends-of-appropriate-ages](https://github.com/kranthiswaroop19/6companies30days/tree/master/0852-friends-of-appropriate-ages) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthiswaroop19/6companies30days/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -120,6 +121,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0187-repeated-dna-sequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/kranthiswaroop19/6companies30days/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/kranthiswaroop19/6companies30days/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/kranthiswaroop19/6companies30days/tree/master/0451-sort-characters-by-frequency) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthiswaroop19/6companies30days/tree/master/1370-count-number-of-nice-subarrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthiswaroop19/6companies30days/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kranthiswaroop19/6companies30days/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -134,6 +136,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/kranthiswaroop19/6companies30days/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/kranthiswaroop19/6companies30days/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/kranthiswaroop19/6companies30days/tree/master/0451-sort-characters-by-frequency) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2755-extra-characters-in-a-string](https://github.com/kranthiswaroop19/6companies30days/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -142,6 +145,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | ------- |
 | [0299-bulls-and-cows](https://github.com/kranthiswaroop19/6companies30days/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/kranthiswaroop19/6companies30days/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/kranthiswaroop19/6companies30days/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -245,10 +249,15 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kranthiswaroop19/6companies30days/tree/master/0451-sort-characters-by-frequency) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthiswaroop19/6companies30days/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kranthiswaroop19/6companies30days/tree/master/0139-word-break) |
 | [2755-extra-characters-in-a-string](https://github.com/kranthiswaroop19/6companies30days/tree/master/2755-extra-characters-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kranthiswaroop19/6companies30days/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
