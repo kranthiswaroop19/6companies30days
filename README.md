@@ -14,6 +14,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0396-rotate-function](https://github.com/kranthiswaroop19/6companies30days/tree/master/0396-rotate-function) |
 | [0419-battleships-in-a-board](https://github.com/kranthiswaroop19/6companies30days/tree/master/0419-battleships-in-a-board) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [0661-image-smoother](https://github.com/kranthiswaroop19/6companies30days/tree/master/0661-image-smoother) |
 | [0852-friends-of-appropriate-ages](https://github.com/kranthiswaroop19/6companies30days/tree/master/0852-friends-of-appropriate-ages) |
@@ -62,6 +63,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/kranthiswaroop19/6companies30days/tree/master/0354-russian-doll-envelopes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-friends-of-appropriate-ages](https://github.com/kranthiswaroop19/6companies30days/tree/master/0852-friends-of-appropriate-ages) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/kranthiswaroop19/6companies30days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -87,6 +89,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0368-largest-divisible-subset](https://github.com/kranthiswaroop19/6companies30days/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/kranthiswaroop19/6companies30days/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-friends-of-appropriate-ages](https://github.com/kranthiswaroop19/6companies30days/tree/master/0852-friends-of-appropriate-ages) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthiswaroop19/6companies30days/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Matrix
@@ -122,6 +125,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0299-bulls-and-cows](https://github.com/kranthiswaroop19/6companies30days/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/kranthiswaroop19/6companies30days/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kranthiswaroop19/6companies30days/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthiswaroop19/6companies30days/tree/master/1370-count-number-of-nice-subarrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthiswaroop19/6companies30days/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kranthiswaroop19/6companies30days/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -172,6 +176,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 ## Two Pointers
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-friends-of-appropriate-ages](https://github.com/kranthiswaroop19/6companies30days/tree/master/0852-friends-of-appropriate-ages) |
 | [0875-longest-mountain-in-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0875-longest-mountain-in-array) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
