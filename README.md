@@ -22,6 +22,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0875-longest-mountain-in-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0875-longest-mountain-in-array) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/kranthiswaroop19/6companies30days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1036-rotting-oranges](https://github.com/kranthiswaroop19/6companies30days/tree/master/1036-rotting-oranges) |
+| [1185-find-in-mountain-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/1185-find-in-mountain-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthiswaroop19/6companies30days/tree/master/1370-count-number-of-nice-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kranthiswaroop19/6companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthiswaroop19/6companies30days/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -68,6 +69,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0532-k-diff-pairs-in-an-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-friends-of-appropriate-ages](https://github.com/kranthiswaroop19/6companies30days/tree/master/0852-friends-of-appropriate-ages) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/kranthiswaroop19/6companies30days/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+| [1185-find-in-mountain-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/1185-find-in-mountain-array) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Dynamic Programming
 |  |
@@ -293,4 +295,8 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kranthiswaroop19/6companies30days/tree/master/0023-merge-k-sorted-lists) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
