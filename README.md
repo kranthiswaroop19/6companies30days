@@ -144,6 +144,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0139-word-break](https://github.com/kranthiswaroop19/6companies30days/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/kranthiswaroop19/6companies30days/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/0187-repeated-dna-sequences) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kranthiswaroop19/6companies30days/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/kranthiswaroop19/6companies30days/tree/master/0299-bulls-and-cows) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -236,6 +237,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 ## Depth-First Search
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kranthiswaroop19/6companies30days/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/kranthiswaroop19/6companies30days/tree/master/0419-battleships-in-a-board) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kranthiswaroop19/6companies30days/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -248,6 +250,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kranthiswaroop19/6companies30days/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
@@ -276,6 +279,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kranthiswaroop19/6companies30days/tree/master/0139-word-break) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kranthiswaroop19/6companies30days/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/kranthiswaroop19/6companies30days/tree/master/0692-top-k-frequent-words) |
 | [2755-extra-characters-in-a-string](https://github.com/kranthiswaroop19/6companies30days/tree/master/2755-extra-characters-in-a-string) |
 ## Bucket Sort
