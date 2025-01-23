@@ -240,6 +240,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/kranthiswaroop19/6companies30days/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/kranthiswaroop19/6companies30days/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kranthiswaroop19/6companies30days/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -248,6 +249,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0211-design-add-and-search-words-data-structure](https://github.com/kranthiswaroop19/6companies30days/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/kranthiswaroop19/6companies30days/tree/master/0419-battleships-in-a-board) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/kranthiswaroop19/6companies30days/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kranthiswaroop19/6companies30days/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -265,6 +267,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/kranthiswaroop19/6companies30days/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kranthiswaroop19/6companies30days/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Memoization
 |  |
