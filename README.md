@@ -36,6 +36,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/kranthiswaroop19/6companies30days/tree/master/0168-excel-sheet-column-title) |
+| [0273-integer-to-english-words](https://github.com/kranthiswaroop19/6companies30days/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/kranthiswaroop19/6companies30days/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/kranthiswaroop19/6companies30days/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -48,6 +49,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/kranthiswaroop19/6companies30days/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kranthiswaroop19/6companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -147,6 +149,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0168-excel-sheet-column-title](https://github.com/kranthiswaroop19/6companies30days/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/0187-repeated-dna-sequences) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kranthiswaroop19/6companies30days/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0273-integer-to-english-words](https://github.com/kranthiswaroop19/6companies30days/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/kranthiswaroop19/6companies30days/tree/master/0299-bulls-and-cows) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
