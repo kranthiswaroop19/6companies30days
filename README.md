@@ -82,6 +82,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [0875-longest-mountain-in-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0875-longest-mountain-in-array) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kranthiswaroop19/6companies30days/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/kranthiswaroop19/6companies30days/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/kranthiswaroop19/6companies30days/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/kranthiswaroop19/6companies30days/tree/master/2755-extra-characters-in-a-string) |
@@ -173,6 +174,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/0187-repeated-dna-sequences) |
 | [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/kranthiswaroop19/6companies30days/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/kranthiswaroop19/6companies30days/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/kranthiswaroop19/6companies30days/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -195,6 +197,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0875-longest-mountain-in-array) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/kranthiswaroop19/6companies30days/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Backtracking
 |  |
@@ -205,6 +208,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/kranthiswaroop19/6companies30days/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/kranthiswaroop19/6companies30days/tree/master/2709-count-the-number-of-square-free-subsets) |
 ## Divide and Conquer
@@ -236,6 +240,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [1740-count-subtrees-with-max-distance-between-cities](https://github.com/kranthiswaroop19/6companies30days/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kranthiswaroop19/6companies30days/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
