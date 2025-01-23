@@ -27,6 +27,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kranthiswaroop19/6companies30days/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthiswaroop19/6companies30days/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2245-destroying-asteroids](https://github.com/kranthiswaroop19/6companies30days/tree/master/2245-destroying-asteroids) |
+| [2329-maximum-product-after-k-increments](https://github.com/kranthiswaroop19/6companies30days/tree/master/2329-maximum-product-after-k-increments) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kranthiswaroop19/6companies30days/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/kranthiswaroop19/6companies30days/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/kranthiswaroop19/6companies30days/tree/master/2755-extra-characters-in-a-string) |
@@ -224,6 +225,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0324-wiggle-sort-ii) |
 | [2245-destroying-asteroids](https://github.com/kranthiswaroop19/6companies30days/tree/master/2245-destroying-asteroids) |
+| [2329-maximum-product-after-k-increments](https://github.com/kranthiswaroop19/6companies30days/tree/master/2329-maximum-product-after-k-increments) |
 ## Quickselect
 |  |
 | ------- |
@@ -289,6 +291,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0451-sort-characters-by-frequency](https://github.com/kranthiswaroop19/6companies30days/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kranthiswaroop19/6companies30days/tree/master/0692-top-k-frequent-words) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthiswaroop19/6companies30days/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2329-maximum-product-after-k-increments](https://github.com/kranthiswaroop19/6companies30days/tree/master/2329-maximum-product-after-k-increments) |
 ## Trie
 |  |
 | ------- |
