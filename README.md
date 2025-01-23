@@ -81,6 +81,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0396-rotate-function](https://github.com/kranthiswaroop19/6companies30days/tree/master/0396-rotate-function) |
 | [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
 | [0875-longest-mountain-in-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0875-longest-mountain-in-array) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kranthiswaroop19/6companies30days/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/kranthiswaroop19/6companies30days/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/kranthiswaroop19/6companies30days/tree/master/2755-extra-characters-in-a-string) |
@@ -223,10 +224,12 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 ## Graph
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kranthiswaroop19/6companies30days/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kranthiswaroop19/6companies30days/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Tree
 |  |
