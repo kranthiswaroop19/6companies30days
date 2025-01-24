@@ -250,6 +250,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kranthiswaroop19/6companies30days/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/kranthiswaroop19/6companies30days/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1722-throne-inheritance](https://github.com/kranthiswaroop19/6companies30days/tree/master/1722-throne-inheritance) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/kranthiswaroop19/6companies30days/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
@@ -274,12 +275,14 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kranthiswaroop19/6companies30days/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kranthiswaroop19/6companies30days/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1722-throne-inheritance](https://github.com/kranthiswaroop19/6companies30days/tree/master/1722-throne-inheritance) |
 ## Binary Tree
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kranthiswaroop19/6companies30days/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/kranthiswaroop19/6companies30days/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kranthiswaroop19/6companies30days/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Memoization
@@ -298,6 +301,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0023-merge-k-sorted-lists](https://github.com/kranthiswaroop19/6companies30days/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/kranthiswaroop19/6companies30days/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kranthiswaroop19/6companies30days/tree/master/0692-top-k-frequent-words) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kranthiswaroop19/6companies30days/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthiswaroop19/6companies30days/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/kranthiswaroop19/6companies30days/tree/master/2329-maximum-product-after-k-increments) |
 ## Trie
@@ -328,4 +332,12 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/1185-find-in-mountain-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kranthiswaroop19/6companies30days/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/kranthiswaroop19/6companies30days/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
