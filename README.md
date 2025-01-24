@@ -13,6 +13,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0368-largest-divisible-subset](https://github.com/kranthiswaroop19/6companies30days/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/kranthiswaroop19/6companies30days/tree/master/0396-rotate-function) |
 | [0419-battleships-in-a-board](https://github.com/kranthiswaroop19/6companies30days/tree/master/0419-battleships-in-a-board) |
+| [0455-assign-cookies](https://github.com/kranthiswaroop19/6companies30days/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0638-shopping-offers](https://github.com/kranthiswaroop19/6companies30days/tree/master/0638-shopping-offers) |
@@ -97,6 +98,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0354-russian-doll-envelopes](https://github.com/kranthiswaroop19/6companies30days/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/kranthiswaroop19/6companies30days/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/kranthiswaroop19/6companies30days/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/kranthiswaroop19/6companies30days/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/kranthiswaroop19/6companies30days/tree/master/0692-top-k-frequent-words) |
@@ -193,6 +195,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/kranthiswaroop19/6companies30days/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-friends-of-appropriate-ages](https://github.com/kranthiswaroop19/6companies30days/tree/master/0852-friends-of-appropriate-ages) |
 | [0875-longest-mountain-in-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0875-longest-mountain-in-array) |
@@ -224,6 +227,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/kranthiswaroop19/6companies30days/tree/master/0324-wiggle-sort-ii) |
+| [0455-assign-cookies](https://github.com/kranthiswaroop19/6companies30days/tree/master/0455-assign-cookies) |
 | [2245-destroying-asteroids](https://github.com/kranthiswaroop19/6companies30days/tree/master/2245-destroying-asteroids) |
 | [2329-maximum-product-after-k-increments](https://github.com/kranthiswaroop19/6companies30days/tree/master/2329-maximum-product-after-k-increments) |
 ## Quickselect
