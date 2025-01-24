@@ -141,6 +141,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0532-k-diff-pairs-in-an-array](https://github.com/kranthiswaroop19/6companies30days/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/kranthiswaroop19/6companies30days/tree/master/0692-top-k-frequent-words) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kranthiswaroop19/6companies30days/tree/master/1370-count-number-of-nice-subarrays) |
+| [1722-throne-inheritance](https://github.com/kranthiswaroop19/6companies30days/tree/master/1722-throne-inheritance) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthiswaroop19/6companies30days/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kranthiswaroop19/6companies30days/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kranthiswaroop19/6companies30days/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -250,6 +251,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/kranthiswaroop19/6companies30days/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1722-throne-inheritance](https://github.com/kranthiswaroop19/6companies30days/tree/master/1722-throne-inheritance) |
 | [1740-count-subtrees-with-max-distance-between-cities](https://github.com/kranthiswaroop19/6companies30days/tree/master/1740-count-subtrees-with-max-distance-between-cities) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kranthiswaroop19/6companies30days/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -259,6 +261,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/kranthiswaroop19/6companies30days/tree/master/0419-battleships-in-a-board) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/kranthiswaroop19/6companies30days/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1722-throne-inheritance](https://github.com/kranthiswaroop19/6companies30days/tree/master/1722-throne-inheritance) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kranthiswaroop19/6companies30days/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
@@ -271,6 +274,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kranthiswaroop19/6companies30days/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1722-throne-inheritance](https://github.com/kranthiswaroop19/6companies30days/tree/master/1722-throne-inheritance) |
 ## Binary Tree
 |  |
 | ------- |
