@@ -134,6 +134,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | ------- |
 | [0036-valid-sudoku](https://github.com/kranthiswaroop19/6companies30days/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/kranthiswaroop19/6companies30days/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/kranthiswaroop19/6companies30days/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/kranthiswaroop19/6companies30days/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/kranthiswaroop19/6companies30days/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/kranthiswaroop19/6companies30days/tree/master/0387-first-unique-character-in-a-string) |
@@ -273,6 +274,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kranthiswaroop19/6companies30days/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/kranthiswaroop19/6companies30days/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kranthiswaroop19/6companies30days/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kranthiswaroop19/6companies30days/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -324,6 +326,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kranthiswaroop19/6companies30days/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/kranthiswaroop19/6companies30days/tree/master/0146-lru-cache) |
 ## Merge Sort
 |  |
 | ------- |
@@ -340,4 +343,8 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kranthiswaroop19/6companies30days/tree/master/0789-kth-largest-element-in-a-stream) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kranthiswaroop19/6companies30days/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
