@@ -32,6 +32,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kranthiswaroop19/6companies30days/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/kranthiswaroop19/6companies30days/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/kranthiswaroop19/6companies30days/tree/master/2755-extra-characters-in-a-string) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/kranthiswaroop19/6companies30days/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kranthiswaroop19/6companies30days/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Math
@@ -105,6 +106,7 @@ In this repository, I will update my solutions for 6Companies30days Challenge by
 | [0852-friends-of-appropriate-ages](https://github.com/kranthiswaroop19/6companies30days/tree/master/0852-friends-of-appropriate-ages) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kranthiswaroop19/6companies30days/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2245-destroying-asteroids](https://github.com/kranthiswaroop19/6companies30days/tree/master/2245-destroying-asteroids) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/kranthiswaroop19/6companies30days/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 ## Matrix
 |  |
 | ------- |
